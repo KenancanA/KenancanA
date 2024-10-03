@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenancan Aslan</h1>
-<h3 align="center">I am a 4th year student of computer engineering at Isparta University of Applied Sciences. I am improving myself in software development and I want to progress in this field. I am currently working on iOS development with swift. I also know intermediate react native, react js and javascript.</h3>
+<h3 align="center">I am a 4th year student of computer engineering at Isparta University of Applied Sciences. I am improving myself in software development and I want to progress in this field. I am currently working on iOS development with swift. I also know intermediate HTML, CSS, JavaScript, React JS, React Native, C#, C++ and Java .</h3>
 
 
 - 🌱 I’m currently learning **Swift, SwiftUI, React Native**
