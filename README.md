@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kenancanaslan@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13GUQ4VD-b0NIZ0Avl3aWRpp0rgB796gf/view?usp=sharing](https://drive.google.com/file/d/13GUQ4VD-b0NIZ0Avl3aWRpp0rgB796gf/view?usp=sharing)
+- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/13GUQ4VD-b0NIZ0Avl3aWRpp0rgB796gf/view?usp=sharing](https://drive.google.com/file/d/1RZu-W7A7qyeV0XUywf0tv9e8sD8Rk71i/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
